@@ -7,7 +7,7 @@
 - 🌱 Aprendendo mais sobre desenvolvimento de software.
 
 ## Minhas Skills
-P
+
 **Aplicações e dados**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
