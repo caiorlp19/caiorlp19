@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🤔 Meu nome é Caio Ribeiro
+- 🤔 Meu nome é Caio Ribeiro.
 - 🎓 Estudando Ciência da computação na Cesar School.
 - 🌱 Aprendendo mais sobre desenvolvimento de software.
 
@@ -42,11 +42,6 @@ P
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
